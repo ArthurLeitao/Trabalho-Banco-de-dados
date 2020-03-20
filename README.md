@@ -1,5 +1,5 @@
 # Trabalho-Banco-de-dados
-<br>
-Filipe Malavasi e
-Arthur Leitao
+Integrantes do grupo <br>
+Filipe Malavasi<br>
+Arthur Leitao<br>
 Descrição do cenario: Uma empresa de venda de jogos
