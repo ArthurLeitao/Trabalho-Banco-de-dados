@@ -1,3 +1,3 @@
 # Trabalho-Banco-de-dados
-Filipe Malavasi
+Filipe Malavasi e
 Arthur Leitao
