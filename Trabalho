@@ -1,5 +1,5 @@
 Somos uma empresa de venda online de jogos e contratamos voce para criar um sistema de banco de dados responsavel
-pela venda e o controle de produtos que tem na loja.
-Sabe-se que cada jogo do catalogo da loja possui um criador e o mesmo recebe uma certa porcentagem por venda do seu jogo
-e que cada venda possui um atendente para dar suporte ao cliente em quaisquer problemas e no final recebem um tipo de avaliação.
+pela venda e o controle de **produtos** que tem na loja.
+Sabe-se que cada jogo do catalogo da loja possui um **criador** e o mesmo recebe uma certa porcentagem por venda do seu jogo
+e que o site possui um atendente para dar suporte ao **cliente** em qualquer problemas na **venda** e no final recebem um tipo de avaliação.
 O site possui varios jogos, por isso é necessario controlar o preço dos jogos em estoque para saber a quantia que cada criador recebe por cada venda de seu jogo 
